@@ -1,6 +1,4 @@
-# Gymnasium Examples
-Some simple examples of Gymnasium environments and wrappers.
-For some explanations of these examples, see the [Gymnasium documentation](https://gymnasium.farama.org).
+# lean-gym
 
 ### Environments
 - `LeanEnvREPL`: Wrapper of LeanDojo's REPL for Lean4.
